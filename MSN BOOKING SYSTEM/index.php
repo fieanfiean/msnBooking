@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <?php
+header('Content-Disposition: inline');
+
     session_start();
     // session_destroy();
 
